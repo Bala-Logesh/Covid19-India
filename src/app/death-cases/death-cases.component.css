@@ -1,0 +1,22 @@
+toolbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    margin: auto;
+    background-color: #1976d2;
+    color: white;
+  }
+  .title{
+      text-align: center;
+      font-size: 14pt;
+      font-weight: 600;
+  }
+  b{
+    text-transform: capitalize;
+  }
+  .data{
+    text-align:center ;
+    font-size:14pt;
+  }
